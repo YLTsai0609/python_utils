@@ -1,1 +1,4 @@
 pendulum
+pandas
+pandas-profiling
+absl
