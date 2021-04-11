@@ -4,5 +4,4 @@ This repo include reuseable python utils including `thread` , `io` , `logging`, 
 
 # TODO
 
-* [ ] normalize documentation in the functions
 * [ ] add tests
